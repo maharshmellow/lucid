@@ -1,6 +1,6 @@
 {
 	"name": "Lucid",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 		"activityBar.background": "#000000",
 		"activityBar.border": "#00000000",

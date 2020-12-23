@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lucid",
+                "label": "Lucid Light",
+                "uiTheme": "vs",
+                "path": "./themes/Lucid-light-theme.json"
+            },
+            {
+                "label": "Lucid Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Lucid-color-theme.json"
+                "path": "./themes/Lucid-dark-theme.json"
             }
         ]
     }
